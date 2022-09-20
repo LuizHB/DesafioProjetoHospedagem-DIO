@@ -14,3 +14,7 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 3. Caso seja feita uma reserva igual ou maior que 10 dias, deverá ser concedido um desconto de 10% no valor da diária.
 
 ![Diagrama de classe estacionamento](diagrama_classe_hotel.png)
+
+## Exemplo de saída
+
+![Exemplo de Saída](sampleOutput.png)
